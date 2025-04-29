@@ -1,2 +1,13 @@
 1745306793814:create book
 1745307166106:create book --title valami --price 123 --author valaki --publisher kiado
+1745907550734:listbooks
+1745907557974:help
+1745907569602:list books
+1745907626382:
+1745907631487:q
+1745907638440:quit
+1745907735070:help
+1745907747721:create book
+1745907759317:list books
+1745907827019:create book publisher valaki price 123 title c�m author valaki
+1745909157893:exit
